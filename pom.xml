@@ -22,6 +22,7 @@
 
     <dependencies>
 
+
         <dependency>
             <groupId>eddie.work.example</groupId>
             <artifactId>eddie-framework-boot-mybatis</artifactId>
