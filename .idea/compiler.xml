@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-test-project" />
+        <module name="eddie-framework-boot-model" />
+        <module name="eddie-framework-boot-mybatis" />
+        <module name="eddie-framework-boot-common" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eddie-framework-boot-common" options="-parameters" />
+      <module name="eddie-framework-boot-model" options="-parameters" />
+      <module name="eddie-framework-boot-mybatis" options="-parameters" />
+      <module name="my-test-project" options="-parameters" />
+    </option>
+  </component>
+</project>
