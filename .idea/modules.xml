@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../eddie-framework-boot/eddie-framework-boot.iml" filepath="$PROJECT_DIR$/../eddie-framework-boot/eddie-framework-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eddie-framework-boot/eddie-framework-boot-common/eddie-framework-boot-common.iml" filepath="$PROJECT_DIR$/../eddie-framework-boot/eddie-framework-boot-common/eddie-framework-boot-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eddie-framework-boot/eddie-framework-boot-model/eddie-framework-boot-model.iml" filepath="$PROJECT_DIR$/../eddie-framework-boot/eddie-framework-boot-model/eddie-framework-boot-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../eddie-framework-boot/eddie-framework-boot-mybatis/eddie-framework-boot-mybatis.iml" filepath="$PROJECT_DIR$/../eddie-framework-boot/eddie-framework-boot-mybatis/eddie-framework-boot-mybatis.iml" />
+    </modules>
+  </component>
+</project>
